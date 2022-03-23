@@ -36,16 +36,11 @@ body {
   width: 14em;
   }}
 .btn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-transform: uppercase;
+ text-transform: uppercase;
   transition: transform 0.15s;
   transform-style: preserve-3d;
-  justify-content: center;
-  position: relative;
   height: 3.6em;
-  width: 11em;
+  width: 10.5em;
   font-weight: 600;
   font-size: 15px;
   font-family: "Cinzel", serif;
